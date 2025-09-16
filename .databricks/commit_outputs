@@ -15,3 +15,6 @@
 # **
  
 spark/DataFrame.ipynb
+spark/if_else_in_pyspark.ipynb
+spark/Repartition vs Coalesce.ipynb
+spark/Union vs UnionAll.ipynb
